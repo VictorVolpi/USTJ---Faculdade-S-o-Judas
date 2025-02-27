@@ -1,2 +1,2 @@
-# USTJ---Faculdade-S-o-Judas
+# USTJ---Faculdade-São-Judas-Tadeu
 Repositorio - Sistemas Computacionais e Segurança
