@@ -166,47 +166,47 @@ Repositorio - Sistemas Computacionais e Segurança - Teorica/Pratica
 ### 🟢 Atividade 9 → Sistema de Alerta de Enchentes Baseado em IoT
 
 ⏺︎ Resumo do Trabalho.<br>
-  ○ Proposta de sistema de alerta de enchentes baseado em IoT.
-  ○ Uso de sensores, microcontroladores ESP32 e redes LoRaWAN/Wi-Fi.
-  ○ Processamento em nuvem e emissão de alertas automáticos.
+  ○ Proposta de sistema de alerta de enchentes baseado em IoT.<br>
+  ○ Uso de sensores, microcontroladores ESP32 e redes LoRaWAN/Wi-Fi.<br>
+  ○ Processamento em nuvem e emissão de alertas automáticos.<br>
   
 ⏺︎ Introdução.<br>
-  ○ Problemas das enchentes urbanas no Brasil.
-  ○ Necessidade de soluções tecnológicas para prevenção e monitoramento.
+  ○ Problemas das enchentes urbanas no Brasil.<br>
+  ○ Necessidade de soluções tecnológicas para prevenção e monitoramento.<br>
   
 ⏺︎ Objetivos.<br>
-  ○ Geral: Desenvolver um sistema de alerta de enchentes baseado em IoT.
-  ○ Específicos: Projeto de sensores, comunicação eficiente, processamento em nuvem, notificação automatizada e validação do sistema.
+  ○ Geral: Desenvolver um sistema de alerta de enchentes baseado em IoT.<br>
+  ○ Específicos: Projeto de sensores, comunicação eficiente, processamento em nuvem, notificação automatizada e validação do sistema.<br>
 
 ⏺︎ Metodologia.<br>
-  ○ Levantamento de requisitos técnicos e sociais.
-  ○ Escolha e configuração de dispositivos (sensores, ESP32, módulos de comunicação).
-  ○ Desenvolvimento do protótipo, integração hardware/software.
-  ○ Processamento de dados em nuvem.
-  ○ Criação de interfaces de alerta (app, SMS, painéis informativos).
-  ○ Testes e validação do sistema.
+  ○ Levantamento de requisitos técnicos e sociais.<br>
+  ○ Escolha e configuração de dispositivos (sensores, ESP32, módulos de comunicação).<br>
+  ○ Desenvolvimento do protótipo, integração hardware/software.<br>
+  ○ Processamento de dados em nuvem.<br>
+  ○ Criação de interfaces de alerta (app, SMS, painéis informativos).<br>
+  ○ Testes e validação do sistema.<br>
   
 ⏺︎ Referencial Teórico.<br>
-  ○ nternet das Coisas (IoT): Conceitos e aplicações em monitoramento ambiental.
-  ○ Sistemas de Monitoramento Ambiental: Coleta e análise de dados em tempo real.
-  ○ Enchentes Urbanas e Vulnerabilidade: Causas e impactos sociais.  
-  ○ Comunicação via LoRaWAN e Wi-Fi: Características e aplicação no sistema.
-  ○ Computação em Nuvem e Processamento de Dados: Armazenamento, análise e emissão de alertas.
-  ○ Cidades Inteligentes e Resiliência Urbana: Integração de tecnologia e gestão pública.
+  ○ nternet das Coisas (IoT): Conceitos e aplicações em monitoramento ambiental.<br>
+  ○ Sistemas de Monitoramento Ambiental: Coleta e análise de dados em tempo real.<br>
+  ○ Enchentes Urbanas e Vulnerabilidade: Causas e impactos sociais.<br>
+  ○ Comunicação via LoRaWAN e Wi-Fi: Características e aplicação no sistema.<br>
+  ○ Computação em Nuvem e Processamento de Dados: Armazenamento, análise e emissão de alertas.<br>
+  ○ Cidades Inteligentes e Resiliência Urbana: Integração de tecnologia e gestão pública.<br>
 
 ⏺︎ Resultados Esperados.<br>
-  ○ Sistema funcional de monitoramento de nível de água em tempo real.
-  ○ Comunicação eficiente entre sensores e central.
-  ○ Emissão automatizada de alertas para população e autoridades.
-  ○ Contribuição para cidades inteligentes e gestão de desastres urbanos.
+  ○ Sistema funcional de monitoramento de nível de água em tempo real.<br>
+  ○ Comunicação eficiente entre sensores e central.<br>
+  ○ Emissão automatizada de alertas para população e autoridades.<br>
+  ○ Contribuição para cidades inteligentes e gestão de desastres urbanos.<br>
 
 ⏺︎ Conclusão Final.<br>
-  ○ Integração de IoT, sensores e comunicação para prevenção de desastres.
-  ○ Melhoria da resiliência urbana, redução de danos e preservação de vidas.
-  ○ Aplicabilidade em diferentes contextos urbanos brasileiros. 
+  ○ Integração de IoT, sensores e comunicação para prevenção de desastres.<br>
+  ○ Melhoria da resiliência urbana, redução de danos e preservação de vidas.<br>
+  ○ Aplicabilidade em diferentes contextos urbanos brasileiros.<br>
 
 ⏺︎ Refencia Bibliográfica.<br> 
-  ○ Links de fontes sobre Artigos científicos, relatórios e publicações sobre IoT, monitoramento ambiental e enchentes.
+  ○ Links de fontes sobre Artigos científicos, relatórios e publicações sobre IoT, monitoramento ambiental e enchentes.<br>
   
 ⏺︎ Confira meu projeto no GitHub: [Sistema de Alerta de Enchentes Baseado em IoT.](https://github.com/VictorVolpi/USTJ---Faculdade-S-o-Judas/blob/main/Sistema%20de%20Alerta%20de%20Enchentes%20Baseado%20em%20IoT.pdf)<br>
 
