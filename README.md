@@ -1,6 +1,5 @@
-# USJT---Faculdade-São-Judas-Tadeu
+## UNIVERSIDADE SÃO JUDAS TADEU - USJT - Sistemas Computacionais e Segurança
 Repositorio - Sistemas Computacionais e Segurança - Teorica/Pratica
-
 
 ### 🟢 Atividade 1 → Criptografia.
 
@@ -27,7 +26,6 @@ Repositorio - Sistemas Computacionais e Segurança - Teorica/Pratica
   ○ Post-Quantum Cryptography: proteção de dados contra ameaças futuras. <br>
 
 ⏺︎ Confira meu projeto no GitHub: [Criptografias](https://github.com/VictorVolpi/USTJ---Faculdade-S-o-Judas/blob/main/Sistemas%20em%20Seguran%C3%A7a%20Computacionais.docx)<br>
-
 
 ### 🟢 Atividade 2 → Comparativo de Certificações.
 
@@ -56,7 +54,6 @@ Repositorio - Sistemas Computacionais e Segurança - Teorica/Pratica
 
 ⏺︎ Confira meu projeto no GitHub: [Criptografias](https://github.com/VictorVolpi/USTJ---Faculdade-S-o-Judas/blob/main/Sistemas%20em%20Seguran%C3%A7a%20Computacionais.docx)<br>
 
-
 ### 🟢 Atividade 3 → Criptografia em Java.
 
 ⏺︎ Criptografia assimetrica em java.<br>
@@ -67,7 +64,6 @@ Repositorio - Sistemas Computacionais e Segurança - Teorica/Pratica
 ⏺︎ Como rodar Criptografia Hash em java.<br> 
 
 ⏺︎ Confira meu projeto no GitHub: [Criptografia em Java](https://github.com/VictorVolpi/USTJ---Faculdade-S-o-Judas/blob/main/Criptografia.zip)<br>
-
 
 ### 🟢 Atividade 4 → Estudo de Caso e Gestão de Risco.
 
@@ -89,7 +85,6 @@ Repositorio - Sistemas Computacionais e Segurança - Teorica/Pratica
 ⏺︎ Registros para auditoria de segurança.<br>
 
 ⏺︎ Confira meu projeto no GitHub: [Estudo de Caso e Gestão de Risco](https://github.com/VictorVolpi/USTJ---Faculdade-S-o-Judas/blob/main/Estudo%20de%20caso%20e%20Gest%C3%A3o%20de%20risco.zip)<br>
-
 
 ### 🟢 Atividade 5 → Plano de Continuidade de Negocios.
 
@@ -161,7 +156,6 @@ Repositorio - Sistemas Computacionais e Segurança - Teorica/Pratica
 ⏺︎ Ferramentas que usam Pipeline.<br> 
 ⏺︎ Referência Bibliografica.<br> 
 ⏺︎ Confira meu projeto no GitHub: [Pipeline e seus conceitos](https://github.com/VictorVolpi/USTJ---Faculdade-S-o-Judas/blob/main/Conceitos%20sobre%20pipeline.pptx)<br>
-
 
 ### 🟢 Atividade 9 → Sistema de Alerta de Enchentes Baseado em IoT
 
