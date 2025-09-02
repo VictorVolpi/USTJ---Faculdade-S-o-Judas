@@ -52,7 +52,7 @@ Repositorio - Sistemas Computacionais e Segurança - Teorica/Pratica
   ○ Reconhecimento/Benefícios: ISO 27001 foca em governança e confiança; PCI DSS foca em redução de fraudes e conformidade.<br>
   ○ Segurança: ISO 27001 cobre segurança da informação de forma ampla; PCI DSS foca em segurança de dados de cartões de pagamento.<br>
 
-⏺︎ Confira meu projeto no GitHub: [Criptografias](https://github.com/VictorVolpi/USTJ---Faculdade-S-o-Judas/blob/main/Sistemas%20em%20Seguran%C3%A7a%20Computacionais.docx)<br>
+⏺︎ Confira meu projeto no GitHub: [Comparativo de Certificações.](https://github.com/VictorVolpi/USTJ---Faculdade-S-o-Judas/blob/main/Sistemas%20em%20Seguran%C3%A7a%20Computacionais.docx)<br>
 
 ### 🟢 Atividade 3 → Criptografia em Java.
 
