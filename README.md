@@ -102,7 +102,7 @@ Repositorio - Sistemas Computacionais e Segurança - Teorica/Pratica
 ⏺︎ Ações em Caso de Interrupção.<br>
 ⏺︎ Simulação de Crise Multicamadas.<br>
 
-⏺︎ Confira meu projeto no GitHub: [Estudo de Caso e Gestão de Risco](https://github.com/VictorVolpi/USTJ---Faculdade-S-o-Judas/blob/main/Estudo%20de%20caso%20e%20Gest%C3%A3o%20de%20risco.zip)<br>
+⏺︎ Confira meu projeto no GitHub: [Plano de Continuidade de Negocios.](https://github.com/VictorVolpi/USTJ---Faculdade-S-o-Judas/blob/main/Estudo%20de%20caso%20e%20Gest%C3%A3o%20de%20risco.zip)<br>
 
 ### 🟢 Atividade 6 → Como é executado um programa no computador
 
