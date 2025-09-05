@@ -1,5 +1,5 @@
-## UNIVERSIDADE SÃO JUDAS TADEU - USJT - Sistemas Computacionais e Segurança
-Repositorio - Sistemas Computacionais e Segurança - Teorica/Pratica
+## UNIVERSIDADE SÃO JUDAS TADEU → USJT → SISTEMAS COMPUTACIONAIS E SEGURANÇA
+# Sistemas Computacionais e Segurança: Da Teoria à Prática
 
 ### 🟢 Atividade 1 → Criptografia.
 
